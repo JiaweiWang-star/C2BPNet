@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python tools/test.py local_config/C₂BPNet/C₂BPNet_base.py work_dirs/-C₂BPNet_base/iter_40000.pth --show-dir results/vis/C₂BPNet_base
